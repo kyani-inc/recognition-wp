@@ -15,7 +15,7 @@ function tableBuilderShortcode($atts, $content = null) {
 	$json_data = json_decode(file_get_contents($url));
 	$data = $json_data->data;
 
-	$jsonTable = '<h3>' . $content . '</h3>';
+	$jsonTable = '<h3 class="tableHeader" style="text-align: center; color: #002855; font-size: 40px; font-weight: bold;">' . $content . '</h3>';
 	$jsonTable .= '<table class=table-striped table-condensed" width=100%>';
 	//Table Heading
 	$jsonTable .= '<tr>';
