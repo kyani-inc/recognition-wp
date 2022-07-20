@@ -1,0 +1,24 @@
+{
+  "country": "INDONESIA",
+  "default_rep": "165",
+  "triangle_of_health": "196",
+  "fleuresse": "298",
+  "nutritionals": "",
+  "protein_nutritionals": "",
+  "charity": "",
+  "on": "",
+  "sunrise": "",
+  "sunset": "408IDSS",
+  "core140": "",
+  "nitro": "",
+  "nitroxtreme": "408IDXT56",
+  "hl5": "",
+  "fit20": "",
+  "locales": [
+    {
+      "locale": "id_ID",
+      "language_code": "69",
+      "join_locale": "id-id"
+    }
+  ]
+}

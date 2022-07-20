@@ -1,0 +1,29 @@
+{
+    "country": "MALAYSIA",
+    "default_rep": "161",
+    "triangle_of_health": "341",
+    "fleuresse": "305",
+    "nutritionals": "203",
+    "protein_nutritionals": "238",
+    "charity": "",
+    "on": "",
+    "sunrise": "410ENSR30",
+    "sunset": "410ENSS",
+    "core140": "",
+    "nitro": "410ENFX56",
+    "nitroxtreme": "410ENXT56",
+    "hl5": "",
+    "fit20": "410ENFIT20",
+    "locales": [
+      {
+        "locale": "en_MY",
+        "language_code": "131",
+        "join_locale": "en-sg"
+      },
+      {
+        "locale": "zh_MY",
+        "language_code": "30",
+        "join_locale": "zh-sg"
+      }
+    ]
+  }

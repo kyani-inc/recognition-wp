@@ -1,0 +1,28 @@
+{
+  "locales": [
+    {
+      "locale": "et",
+      "translations": {
+        "view_bio": "Kuva elulugu",
+        "view_profile": "Kuva kogu profiil",
+        "hide_profile": "Peida kogu profiil",
+        "ibp": "Sõltumatu äripartner",
+        "join_team": "Liitu meeskonnaga",
+        "shop_now": "Osta kohe",
+        "about_me": "Minust"
+      }
+    },
+    {
+      "locale": "en_EE",
+      "translations": {
+        "view_bio": "View Bio",
+        "view_profile": "View Full Profile",
+        "hide_profile": "Hide Full Profile",
+        "ibp": "Independent Business Partner",
+        "join_team": "Join Team",
+        "shop_now": "Shop Now",
+        "about_me": "About Me"
+      }
+    }
+  ]
+}

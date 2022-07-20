@@ -1,0 +1,28 @@
+{
+  "locales": [
+    {
+      "locale": "fi",
+      "translations": {
+        "view_bio": "Näytä Bio",
+        "view_profile": "Näytä koko profiili",
+        "hide_profile": "Piilota koko profiili",
+        "ibp": "Riippumaton liikekumppani",
+        "join_team": "Liity joukkueeseen",
+        "shop_now": "Osta nyt",
+        "about_me": "Minusta"
+      }
+    },
+    {
+      "locale": "en_FI",
+      "translations": {
+        "view_bio": "View Bio",
+        "view_profile": "View Full Profile",
+        "hide_profile": "Hide Full Profile",
+        "ibp": "Independent Business Partner",
+        "join_team": "Join Team",
+        "shop_now": "Shop Now",
+        "about_me": "About Me"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "locales": [
+    {
+      "locale": "es_ES",
+      "translations": {
+        "view_bio": "Ver biografía",
+        "view_profile": "Ver todo el perfil",
+        "hide_profile": "Ocultar perfil completo",
+        "ibp": "Socio comercial independiente",
+        "join_team": "Unirse al equipo",
+        "shop_now": "Comprar ahora",
+        "about_me": "Sobre mí"
+      }
+    },
+    {
+      "locale": "en_ES",
+      "translations": {
+        "view_bio": "View Bio",
+        "view_profile": "View Full Profile",
+        "hide_profile": "Hide Full Profile",
+        "ibp": "Independent Business Partner",
+        "join_team": "Join Team",
+        "shop_now": "Shop Now",
+        "about_me": "About Me"
+      }
+    }
+  ]
+}

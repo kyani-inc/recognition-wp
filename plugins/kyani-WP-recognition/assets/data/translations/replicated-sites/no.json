@@ -1,0 +1,28 @@
+{
+  "locales": [
+    {
+      "locale": "nb_NO",
+      "translations": {
+        "view_bio": "Vis Bio",
+        "view_profile": "Se hele profilen",
+        "hide_profile": "Skjul full profil",
+        "ibp": "Uavhengig forretningspartner",
+        "join_team": "Bli med i teamet",
+        "shop_now": "Kjøp nå",
+        "about_me": "Om meg"
+      }
+    },
+    {
+      "locale": "en_NO",
+      "translations": {
+        "view_bio": "View Bio",
+        "view_profile": "View Full Profile",
+        "hide_profile": "Hide Full Profile",
+        "ibp": "Independent Business Partner",
+        "join_team": "Join Team",
+        "shop_now": "Shop Now",
+        "about_me": "About Me"
+      }
+    }
+  ]
+}

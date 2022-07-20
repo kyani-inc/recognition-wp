@@ -1,0 +1,40 @@
+{
+  "locales": [
+    {
+      "locale": "sk_SK",
+      "translations": {
+        "view_bio": "Zobraziť Bio",
+        "view_profile": "Zobraziť celý profil",
+        "hide_profile": "Skryť celý profil",
+        "ibp": "Nezávislý obchodný partner",
+        "join_team": "Pripojte sa k tímu",
+        "shop_now": "Kúpiť teraz",
+        "about_me": "O mne"
+      }
+    },
+    {
+      "locale": "hu_SK",
+      "translations": {
+        "view_bio": "Bio megtekintése",
+        "view_profile": "Teljes profil megtekintése",
+        "hide_profile": "Teljes profil elrejtése",
+        "ibp": "Független üzleti partner",
+        "join_team": "Csatlakozni a csapathoz",
+        "shop_now": "Vásároljon most",
+        "about_me": "Rólam"
+      }
+    },
+    {
+      "locale": "en_SK",
+      "translations": {
+        "view_bio": "View Bio",
+        "view_profile": "View Full Profile",
+        "hide_profile": "Hide Full Profile",
+        "ibp": "Independent Business Partner",
+        "join_team": "Join Team",
+        "shop_now": "Shop Now",
+        "about_me": "About Me"
+      }
+    }
+  ]
+}

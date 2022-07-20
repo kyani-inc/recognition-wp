@@ -1,0 +1,27 @@
+{
+  "country": "LUXEMBOURG",
+  "default_rep": "151",
+  "triangle_of_health": "347",
+  "fleuresse": "279",
+  "nutritionals": "215",
+  "protein_nutritionals": "242",
+  "charity": "505",
+  "on": "200ENNOOTROPRG",
+  "sunrise": "200ENSR30",
+  "sunset": "200ENSS",
+  "core140": "200ENCORECH",
+  "nitro": "200ENFX56",
+  "nitroxtreme": "200ENXT56",
+  "hl5": "200ENHL5P",
+  "fit20": "200ENFIT20",
+  "nucleus_bar": "200ENBAR",
+  "origin_vanilla": "200ENOPBSV",
+  "restore": "200ENRS",
+  "locales": [
+    {
+      "locale": "en_LU",
+      "language_code": "47",
+      "join_locale": "en-gb"
+    }
+  ]
+}

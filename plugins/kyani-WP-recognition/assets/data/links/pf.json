@@ -1,0 +1,25 @@
+{
+  "country": "FRENCH POLYNESIA",
+  "default_rep": "157",
+  "nitro_nutrition": "930",
+  "triangle_of_health": "343",
+  "fleuresse": "287",
+  "nutritionals": "167",
+  "protein_nutritionals": "222",
+  "charity": "532",
+  "on": "",
+  "sunrise": "200ENSR30",
+  "sunset": "200ENSS",
+  "core140": "",
+  "nitro": "200ENFX56",
+  "nitroxtreme": "200ENXT56",
+  "hl5": "200ENHL5",
+  "fit20": "200ENFIT20",
+  "locales": [
+    {
+      "locale": "fr_PH",
+      "language_code": "57",
+      "join_locale": "fr-pf"
+    }
+  ]
+}

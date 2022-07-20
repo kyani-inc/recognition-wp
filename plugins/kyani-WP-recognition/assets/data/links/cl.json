@@ -1,0 +1,24 @@
+{
+  "country": "CHILE",
+  "default_rep": "155",
+  "triangle_of_health": "336",
+  "fleuresse": "",
+  "nutritionals": "168",
+  "protein_nutritionals": "",
+  "charity": "529",
+  "on": "",
+  "sunrise": "610ESSR30",
+  "sunset": "610ESSS",
+  "core140": "",
+  "nitro": "610ESFX56",
+  "nitroxtreme": "116ESXT56",
+  "hl5": "",
+  "fit20": "",
+  "locales": [
+    {
+      "locale": "es_CL",
+      "language_code": "102",
+      "join_locale": "es-cl"
+    }
+  ]
+}

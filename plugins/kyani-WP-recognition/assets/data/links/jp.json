@@ -1,0 +1,24 @@
+{
+  "country": "JAPAN",
+  "default_rep": "",
+  "triangle_of_health": "176",
+  "fleuresse": "",
+  "nutritionals": "223",
+  "protein_nutritionals": "223",
+  "charity": "528",
+  "on": "",
+  "sunrise": "303JASR30",
+  "sunset": "303JASS",
+  "core140": "",
+  "nitro": "303JAFX56",
+  "nitroxtreme": "303JAXT56",
+  "hl5": "303JAHL5",
+  "fit20": "303JAFIT20",
+  "locales": [
+    {
+      "locale": "ja",
+      "language_code": "72",
+      "join_locale": "ja-jp"
+    }
+  ]
+}

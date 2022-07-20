@@ -1,0 +1,16 @@
+{
+  "locales": [
+    {
+      "locale": "zh_TW",
+      "translations": {
+        "view_bio": "查看個人檔案",
+        "view_profile": "查看完整檔案",
+        "hide_profile": "隱藏完整檔案",
+        "ibp": "獨立事業合作夥伴",
+        "join_team": "加入團隊",
+        "shop_now": "立即購買",
+        "about_me": "关于我"
+      }
+    }
+  ]
+}

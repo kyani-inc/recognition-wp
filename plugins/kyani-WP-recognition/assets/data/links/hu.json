@@ -1,0 +1,32 @@
+{
+  "country": "HUNGARY",
+  "default_rep": "151",
+  "triangle_of_health": "",
+  "fleuresse": "281",
+  "nutritionals": "",
+  "protein_nutritionals": "198",
+  "charity": "537",
+  "on": "220HUNOOTROPRG",
+  "sunrise": "220HUSR30",
+  "sunset": "220HUSS",
+  "core140": "220HUCORECH",
+  "nitro": "220HUFX56",
+  "nitroxtreme": "220HUXT56",
+  "hl5": "220HUHL5P",
+  "fit20": "220HUFIT20",
+  "nucleus_bar": "220HUBAR",
+  "origin_vanilla": "220HUOPBSV",
+  "restore": "220HURS",
+  "locales": [
+    {
+      "locale": "hu_HU",
+      "language_code": "67",
+      "join_locale": "hu-hu"
+    },
+    {
+      "locale": "en_HU",
+      "language_code": "47",
+      "join_locale": "en-gb"
+    }
+  ]
+}

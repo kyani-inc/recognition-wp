@@ -1,0 +1,130 @@
+{
+  "locales": [
+    {
+      "locale": "en_US",
+      "chatLocale": {
+        "locale": "en-us"
+      }
+    },
+    {
+      "locale": "en_CA",
+      "chatLocale": {
+        "locale": "en-us"
+      }
+    },
+    {
+      "locale": "es_MX",
+      "chatLocale": {
+        "locale": "es-mx"
+      }
+    },
+    {
+      "locale": "es_DO",
+      "chatLocale": {
+        "locale": "es-do"
+      }
+    },
+    {
+      "locale": "es_CO",
+      "chatLocale": {
+        "locale": "es-co"
+      }
+    },
+    {
+      "locale": "es_HN",
+      "chatLocale": {
+        "locale": "es-hn"
+      }
+    },
+    {
+      "locale": "en_HU",
+      "chatLocale": {
+        "locale": "en-gb"
+      }
+    },
+    {
+      "locale": "en_GB",
+      "chatLocale": {
+        "locale": "en-gb"
+      }
+    },
+    {
+      "locale": "de_AT",
+      "chatLocale": {
+        "locale": "de-at"
+      }
+    },
+    {
+      "locale": "de_DE",
+      "chatLocale": {
+        "locale": "de-de"
+      }
+    },
+    {
+      "locale": "de_LI",
+      "chatLocale": {
+        "locale": "de-ch"
+      }
+    },
+    {
+      "locale": "de_CH",
+      "chatLocale": {
+        "locale": "de-ch"
+      }
+    },
+    {
+      "locale": "fr_BE",
+      "chatLocale": {
+        "locale": "fr-fr"
+      }
+    },
+    {
+      "locale": "fr_FR",
+      "chatLocale": {
+        "locale": "fr-fr"
+      }
+    },
+    {
+      "locale": "fr_CH",
+      "chatLocale": {
+        "locale": "fr-ch"
+      }
+    },
+    {
+      "locale": "hu_HU",
+      "chatLocale": {
+        "locale": "hu-hu"
+      }
+    },
+    {
+      "locale": "it_IT",
+      "chatLocale": {
+        "locale": "it-it"
+      }
+    },
+    {
+      "locale": "en_AU",
+      "chatLocale": {
+        "locale": "en-au"
+      }
+    },
+    {
+      "locale": "en_NZ",
+      "chatLocale": {
+        "locale": "en-nz"
+      }
+    },
+    {
+      "locale": "zh_AU",
+      "chatLocale": {
+        "locale": "zh-au"
+      }
+    },
+    {
+      "locale": "zh_NZ",
+      "chatLocale": {
+        "locale": "zh-au"
+      }
+    }
+  ]
+}

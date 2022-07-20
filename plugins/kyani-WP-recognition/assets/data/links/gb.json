@@ -1,0 +1,27 @@
+{
+  "country": "UNITED KINGDOM",
+  "default_rep": "151",
+  "triangle_of_health": "316",
+  "fleuresse": "274",
+  "nutritionals": "192",
+  "protein_nutritionals": "249",
+  "charity": "497",
+  "on": "247ENNOOTROPRG",
+  "sunrise": "247ENSR30",
+  "sunset": "247ENSS",
+  "core140": "247ENCORECH",
+  "nitro": "247ENFX56",
+  "nitroxtreme": "247ENXT56",
+  "hl5": "247ENHL5P",
+  "fit20": "247ENFIT20",
+  "nucleus_bar": "247ENBAR",
+  "origin_vanilla": "247ENOPBSV",
+  "restore": "247ENRS",
+  "locales": [
+    {
+      "locale": "en_GB",
+      "language_code": "47",
+      "join_locale": "en-gb"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "country": "FRANCE",
+  "default_rep": "151",
+  "triangle_of_health": "343",
+  "fleuresse": "287",
+  "nutritionals": "222",
+  "protein_nutritionals": "167",
+  "charity": "532",
+  "on": "200ENNOOTROPRG",
+  "sunrise": "200ENSR30",
+  "sunset": "200ENSS",
+  "core140": "200ENCORECH",
+  "nitro": "200ENFX56",
+  "nitroxtreme": "200ENXT56",
+  "hl5": "200ENHL5P",
+  "fit20": "200ENFIT20",
+  "nucleus_bar": "200ENBAR",
+  "origin_vanilla": "200ENOPBSV",
+  "restore": "200FRRS",
+  "locales": [
+    {
+      "locale": "fr_FR",
+      "language_code": "52",
+      "join_locale": "fr-fr"
+    },
+    {
+      "locale": "en_FR",
+      "language_code": "47",
+      "join_locale": "en-gb"
+    }
+  ]
+}

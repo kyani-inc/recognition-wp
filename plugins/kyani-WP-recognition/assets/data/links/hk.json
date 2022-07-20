@@ -1,0 +1,33 @@
+{
+  "country": "HONG KONG",
+  "default_rep": "150",
+  "nitro_nutrition": "937",
+  "triangle_of_health": "936",
+  "fleuresse": "",
+  "nutritionals": "",
+  "protein_nutritionals": "236",
+  "puredawoom": "924",
+  "probiotics": "302ZHPROBIO",
+  "charity": "",
+  "on": "302ZHNOOTROPMB",
+  "sunrise": "302ZHSR302",
+  "sunset": "302ZHSS",
+  "core140": "302ZHCORECH",
+  "nitro": "302ZHFX56",
+  "nitroxtreme": "302ZHXT56",
+  "hl5": "302ZHHL5",
+  "fit20": "302ZHFIT20",
+  "origin_vanilla": "302ZHOPBSV",
+  "locales": [
+    {
+      "locale": "zh_HK",
+      "language_code": "28",
+      "join_locale": "zh-hk"
+    },
+    {
+      "locale": "en_HK",
+      "language_code": "200",
+      "join_locale": "en-hk"
+    }
+  ]
+}

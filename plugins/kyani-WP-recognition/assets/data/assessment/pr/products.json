@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "name": "Sunrise",
+      "displayName": "Sunrise",
+      "image": "sunrise.png",
+      "description": "Kyäni Sunrise une el poder nutricional de 22 superalimentos antioxidantes, incluido el vaccinium alaskaense, una especie silvestre de arándanos seleccionados por las vitaminas y minerales únicos que proporcionan.",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENSR30/from/155",
+      "count": 0,
+      "shopButton": "Compra Sunrise"
+    },
+    {
+      "name": "Sunset",
+      "displayName": "Sunset",
+      "image": "sunset.png",
+      "description": "Kyäni Sunset es una combinación patentada de nutrientes solubles en lípidos que más faltan en nuestras dietas: tocotrienoles de vitamina E, ácidos grasos omega-3, antoxantina, vitamina A y vitamina D3.",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENSS/from/155",
+      "count": 0,
+      "shopButton": "Compra Sunset"
+    },
+    {
+      "name": "Nitro",
+      "displayName": "Nitro",
+      "image": "nitrofx.png",
+      "description": "La verdadera clave para darse cuenta de todo el valor del Triángulo Kyäni es Kyäni Nitro. Nitro contiene extractos de la fruta de Noni que aumenta la producción del cuerpo de Óxido Nítrico, una de las moléculas señaladoras más importantes en el cuerpo.",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENFX56/from/155",
+      "count": 0,
+      "shopButton": "Compra Nitro"
+    },
+    {
+      "name": "HL5",
+      "displayName": "HL5",
+      "image": "hl5.png",
+      "description": "HL5 es un impulso natural de proteína de colágeno hidrolizado diseñado para la máxima absorción para apoyar las articulaciones saludables, la piel y el cabello, así como construir músculo magro, optimizar el metabolismo de las grasas, y proporcionar energía de larga duración con sólo 25 calorías y 0 gramos de azúcar.",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENHL5/from/155",
+      "count": 0,
+      "shopButton": "Compra HL5"
+    },
+    {
+      "name": "Fit20",
+      "displayName": "Fit20",
+      "image": "fit20.png",
+      "description": "FIT20 alimentado con pasto que proporciona los nutrientes que los atletas y las personas activas requieren para la construcción de músculo magro, recuperación de entrenamiento más rápida, y la producción de óxido nítrico a largo plazo.",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENFIT20/from/155",
+      "count": 0,
+      "shopButton": "Compra Fit20"
+    },
+    {
+      "name": "ON",
+      "displayName": "ON",
+      "image": "on.jpg",
+      "description": "Kyäni ON combina el poder de la cafeína guaraná de origen natural para obtener energía sostenible con una mezcla patentada de nootrópicos optimizados diseñada para respaldar el enfoque, la atención y la claridad. Cuando las exigencias de la vida se apoderan de su horario, ¡necesita una inyección de energía inteligente para recuperar el día!",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENNOOTROPP/from/155",
+      "count": 0,
+      "shopButton": "Compra ON"
+    },
+    {
+      "name": "CORE140",
+      "displayName": "CORE140",
+      "image": "Core140.jpg",
+      "description": "La vida en movimiento a menudo limita la calidad de los alimentos que consume, pero no cuando se trata de Core140 +, el batido sustituto de comidas de Kyäni, rico en nutrientes, con ingredientes saludables para alimentar su cuerpo.",
+      "productUrl": "https://store.kyani.com/#/shop/from/155?MarketShow=571&country=usa&locale=en-us",
+      "count": 0,
+      "shopButton": "Compra CORE140"
+    }
+  ],
+  "resultTitle": "Según sus selecciones, estos son los 3 productos principales para sus preocupaciones de salud"
+}

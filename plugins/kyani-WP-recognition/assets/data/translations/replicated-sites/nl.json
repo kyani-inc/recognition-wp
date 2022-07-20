@@ -1,0 +1,28 @@
+{
+  "locales": [
+    {
+      "locale": "nl_NL",
+      "translations": {
+        "view_bio": "Bekijk Bio",
+        "view_profile": "Bekijk volledig profiel",
+        "hide_profile": "Verberg volledig profiel",
+        "ibp": "Onafhankelijke zakenpartner",
+        "join_team": "Word lid van Team",
+        "shop_now": "Shop nu",
+        "about_me": "Over mij"
+      }
+    },
+    {
+      "locale": "en_NL",
+      "translations": {
+        "view_bio": "View Bio",
+        "view_profile": "View Full Profile",
+        "hide_profile": "Hide Full Profile",
+        "ibp": "Independent Business Partner",
+        "join_team": "Join Team",
+        "shop_now": "Shop Now",
+        "about_me": "About Me"
+      }
+    }
+  ]
+}

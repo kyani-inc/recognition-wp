@@ -1,0 +1,27 @@
+{
+  "country": "CYPRUS",
+  "default_rep": "151",
+  "triangle_of_health": "315",
+  "fleuresse": "266",
+  "nutritionals": "193",
+  "protein_nutritionals": "230",
+  "charity": "508",
+  "on": "200ENNOOTROPRG",
+  "sunrise": "200ENSR30",
+  "sunset": "200ENSS",
+  "core140": "200ENCORECH",
+  "nitro": "200ENFX56",
+  "nitroxtreme": "200ENXT56",
+  "hl5": "200ENHL5P",
+  "fit20": "200ENFIT20",
+  "nucleus_bar": "200ENBAR",
+  "origin_vanilla": "200ENOPBSV",
+  "restore": "200ENRS",
+  "locales": [
+    {
+      "locale": "en_GB",
+      "language_code": "47",
+      "join_locale": "en-gb"
+    }
+  ]
+}

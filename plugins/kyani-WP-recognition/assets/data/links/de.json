@@ -1,0 +1,27 @@
+{
+  "country": "GERMANY",
+  "default_rep": "151",
+  "triangle_of_health": "323",
+  "fleuresse": "300",
+  "nutritionals": "197",
+  "protein_nutritionals": "255",
+  "charity": "518",
+  "on": "218DENOOTROPRG",
+  "sunrise": "218DESR30",
+  "sunset": "218DESS",
+  "core140": "218DECORECH",
+  "nitro": "218DEFX56",
+  "nitroxtreme": "218DEXT56",
+  "hl5": "218DEHL5P",
+  "fit20": "218DEFIT20",
+  "nucleus_bar": "218DEBAR",
+  "origin_vanilla": "218DEOPBSV",
+  "restore": "218DERS",
+  "locales": [
+    {
+      "locale": "de_DE",
+      "language_code": "59",
+      "join_locale": "de-de"
+    }
+  ]
+}

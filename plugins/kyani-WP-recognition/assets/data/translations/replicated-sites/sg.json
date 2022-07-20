@@ -1,0 +1,28 @@
+{
+  "locales": [
+    {
+      "locale": "en_SG",
+      "translations": {
+        "view_bio": "View Bio",
+        "view_profile": "View Full Profile",
+        "hide_profile": "Hide Full Profile",
+        "ibp": "Independent Business Partner",
+        "join_team": "Join Team",
+        "shop_now": "Shop Now",
+        "about_me": "About Me"
+      }
+    },
+    {
+      "locale": "zh_SG",
+      "translations": {
+        "view_bio": "查看生物",
+        "view_profile": "查看完整档案",
+        "hide_profile": "隐藏完整个人资料",
+        "ibp": "独立业务合作伙伴",
+        "join_team": "加入团队",
+        "shop_now": "立即购买",
+        "about_me": "关于我"
+      }
+    }
+  ]
+}

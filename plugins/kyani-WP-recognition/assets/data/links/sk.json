@@ -1,0 +1,37 @@
+{
+  "country": "SLOVAKIA",
+  "default_rep": "151",
+  "triangle_of_health": "322",
+  "fleuresse": "293",
+  "nutritionals": "177",
+  "protein_nutritionals": "257",
+  "charity": "526",
+  "on": "200ENNOOTROPRG",
+  "sunrise": "200ENSR30",
+  "sunset": "200ENSS",
+  "core140": "200ENCORECH",
+  "nitro": "200ENFX56",
+  "nitroxtreme": "200ENXT56",
+  "hl5": "200ENHL5P",
+  "fit20": "200ENFIT20",
+  "nucleus_bar": "200ELBAR",
+  "origin_vanilla": "200ENOPBSV",
+  "restore": "200ENRS",
+  "locales": [
+    {
+      "locale": "sk_SK",
+      "language_code": "96",
+      "join_locale": "sk-sk"
+    },
+    {
+      "locale": "hu_SK",
+      "language_code": "67",
+      "join_locale": "hu-hu"
+    },
+    {
+      "locale": "en_SK",
+      "language_code": "47",
+      "join_locale": "en-gb"
+    }
+  ]
+}

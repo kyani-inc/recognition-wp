@@ -1,0 +1,16 @@
+{
+  "locales": [
+    {
+      "locale": "fr_PF",
+      "translations": {
+        "view_bio": "Voir la biographie",
+        "view_profile": "Voir le profil complet",
+        "hide_profile": "Masquer le profil complet",
+        "ibp": "Partenaire d’affaire indépendant",
+        "join_team": "Rejoindre une équipe",
+        "shop_now": "Achetez maintenant",
+        "about_me": "À propos de moi"
+      }
+    }
+  ]
+}

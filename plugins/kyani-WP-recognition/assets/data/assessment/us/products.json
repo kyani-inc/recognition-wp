@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "name": "Sunrise",
+      "displayName": "Sunrise",
+      "image": "sunrise.png",
+      "description": "Kyäni Sunrise unites the nutritional power of 22 antioxidant superfoods, including the vaccinium alaskaense, a wild species of blueberries selected for the unique vitamins and minerals they provide.",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENSR30/from/157",
+      "count": 0,
+      "shopButton": "Shop Sunrise"
+    },
+    {
+      "name": "Sunset",
+      "displayName": "Sunset",
+      "image": "sunset.png",
+      "description": "Kyäni Sunset is a proprietary combination of lipid-soluble nutrients that we lack most in our diets—vitamin E tocotrienols, omega-3 fatty acids, astaxanthin, vitamin A, and vitamin D3.",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENSS/from/157",
+      "count": 0,
+      "shopButton": "Shop Sunset"
+    },
+    {
+      "name": "Nitro",
+      "displayName": "Nitro",
+      "image": "nitrofx.png",
+      "description": "The true key to realizing the full value of the Triangle of Health is Kyäni Nitro. Nitro contains extracts from the noni fruit, which boosts the body’s production of nitric oxide—one of the most important signaling molecules in the body.",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENFX56/from/157",
+      "count": 0,
+      "shopButton": "Shop Nitro"
+    },
+    {
+      "name": "HL5",
+      "displayName": "HL5",
+      "image": "hl5.png",
+      "description": "HL5 is a natural, on-the-go hydrolyzed collagen protein boost designed for maximum absorption to support healthy joints, skin, and hair as well as build lean muscle, optimize fat metabolism, and provide long lasting energy with only 25 calories and 0 grams of sugar.",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENHL5/from/157",
+      "count": 0,
+      "shopButton": "Shop HL5"
+    },
+    {
+      "name": "Fit20",
+      "displayName": "Fit20",
+      "image": "fit20.png",
+      "description": "FIT20 delivers the nutrients athletes and active people require for long-lasting energy and nitric oxide production, faster workout recovery, and lean muscle building.",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENFIT20/from/157",
+      "count": 0,
+      "shopButton": "Shop Fit20"
+    },
+    {
+      "name": "ON",
+      "displayName": "ON",
+      "image": "on.jpg",
+      "description": "Kyäni ON combines the power of naturally sourced guarana caffeine for sustainable energy with a proprietary blend of optimized nootropics designed to support focus, attention, and clarity. When the demands of life take over your schedule, you need a smart energy shot to reclaim the day!",
+      "productUrl": "https://store.kyani.com/#/shop/detail/101ENNOOTROPP/from/157",
+      "count": 0,
+      "shopButton": "Shop ON"
+    },
+    {
+      "name": "CORE140",
+      "displayName": "CORE140",
+      "image": "Core140.jpg",
+      "description": "Life on-the-go often limits the quality of food you consume, but not when it comes to Core140+, Kyäni’s nutrient-dense meal replacement shake with wholesome ingredients to fuel your body.",
+      "productUrl": "https://store.kyani.com/#/shop/from/157?MarketShow=571&country=usa&locale=en-us",
+      "count": 0,
+      "shopButton": "Shop CORE140"
+    }
+  ],
+  "resultTitle": "Based on your selections, these are the Top 3 Products for your Health Concerns"
+}

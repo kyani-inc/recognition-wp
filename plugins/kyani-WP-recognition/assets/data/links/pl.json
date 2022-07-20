@@ -1,0 +1,32 @@
+{
+  "country": "POLAND",
+  "default_rep": "151",
+  "triangle_of_health": "340",
+  "fleuresse": "304",
+  "nutritionals": "222",
+  "protein_nutritionals": "259",
+  "charity": "513",
+  "on": "200ENNOOTROPRG",
+  "sunrise": "200ENSR30",
+  "sunset": "200ENSS",
+  "core140": "200ENCORECH",
+  "nitro": "200ENFX56",
+  "nitroxtreme": "200ENXT56",
+  "hl5": "200ENHL5P",
+  "fit20": "200ENFIT20",
+  "nucleus_bar": "235PLBAR",
+  "origin_vanilla": "235PLOPBSV",
+  "restore": "235PLRS",
+  "locales": [
+    {
+      "locale": "pl_PL",
+      "language_code": "83",
+      "join_locale": "pl-pl"
+    },
+    {
+      "locale": "en_PL",
+      "language_code": "47",
+      "join_locale": "en-gb"
+    }
+  ]
+}

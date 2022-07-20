@@ -1,0 +1,31 @@
+{
+  "country": "NEW ZEALAND",
+  "default_rep": "156",
+  "nitro_nutrition": "933",
+  "triangle_of_health": "349",
+  "fleuresse": "291",
+  "nutritionals": "199",
+  "protein_nutritionals": "237",
+  "origin_vanilla": "531ENOPBSV",
+  "charity": "531",
+  "on": "",
+  "sunrise": "531ENSR30",
+  "sunset": "531ENSS",
+  "core140": "",
+  "nitro": "531ENFX56",
+  "nitroxtreme": "531ENXT56",
+  "hl5": "531ENHL5BL",
+  "fit20": "531ENFIT20",
+  "locales": [
+    {
+      "locale": "en_NZ",
+      "language_code": "37",
+      "join_locale": "en-au"
+    },
+    {
+      "locale": "zh_NZ",
+      "language_code": "-2",
+      "join_locale": "zh-au"
+    }
+  ]
+}

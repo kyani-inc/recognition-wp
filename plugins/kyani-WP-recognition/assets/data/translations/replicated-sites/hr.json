@@ -1,0 +1,28 @@
+{
+  "locales": [
+    {
+      "locale": "hr",
+      "translations": {
+        "view_bio": "Pogledajte Bio",
+        "view_profile": "Pogledajte puni profil",
+        "hide_profile": "Sakrij puni profil",
+        "ibp": "Neovisni poslovni partner",
+        "join_team": "Pridruži se timu",
+        "shop_now": "Kupite odmah",
+        "about_me": "O meni"
+      }
+    },
+    {
+      "locale": "en_HR",
+      "translations": {
+        "view_bio": "View Bio",
+        "view_profile": "View Full Profile",
+        "hide_profile": "Hide Full Profile",
+        "ibp": "Independent Business Partner",
+        "join_team": "Join Team",
+        "shop_now": "Shop Now",
+        "about_me": "About Me"
+      }
+    }
+  ]
+}

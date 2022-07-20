@@ -1,0 +1,24 @@
+{
+  "country": "THAILAND",
+  "default_rep": "157",
+  "triangle_of_health": "170",
+  "fleuresse": "",
+  "nutritionals": "983",
+  "protein_nutritionals": "983",
+  "charity": "523",
+  "on": "",
+  "sunrise": "416THSR30",
+  "sunset": "416THSS",
+  "core140": "",
+  "nitro": "416THFX56",
+  "nitroxtreme": "",
+  "hl5": "",
+  "fit20": "416THFIT20",
+  "locales": [
+    {
+      "locale": "th",
+      "language_code": "123",
+      "join_locale": "th-th"
+    }
+  ]
+}

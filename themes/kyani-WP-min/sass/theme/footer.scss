@@ -1,0 +1,271 @@
+#wrapper-footer-full {
+  padding-top: 90px;
+  padding-bottom: 40px;
+  background-color: $background;
+
+  @media (max-width: 767px) {
+	padding-top: 40px;
+  }
+
+  #footer-full-content {
+
+	@media (min-width: 576px) {
+	  max-width: 540px;
+	}
+
+	@media (min-width: 768px) {
+	  max-width: 720px;
+	}
+
+	@media (min-width: 992px) {
+	  max-width: 960px;
+	}
+
+	@media (min-width: 1200px) {
+	  max-width: 1320px;
+	}
+
+	@media (max-width: 767px) {
+	  padding: 35px;
+	}
+
+	.footer-company-info {
+	  width: 16%;
+
+	  @media (max-width: 1200px) {
+		width: 25%
+	  }
+
+	  @media (max-width: 767px) {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	  }
+
+	  .footer-widget-logo {
+
+		.wp-block-image {
+		  padding-bottom: 2rem;
+		}
+
+		a {
+		  img {
+			height: 100%;
+			width: auto;
+
+		  }
+		}
+	  }
+
+	  p {
+		font-size: 1rem;
+		font-weight: 300;
+		@media (max-width: 767px) {
+		  text-align: center;
+		}
+	  }
+
+	  .widgettitle {
+		font-size: 1.125rem;
+		text-align: center;
+		padding-bottom: 20px;
+		@media (min-width: 768px) {
+		  display: none;
+		}
+	  }
+
+	  .widget_nav_menu {
+		@media (max-width: 767px) {
+		  order: -1;
+		}
+
+		#menu-footer-social {
+		  padding: 0;
+		  list-style-type: none;
+		  font-size: 1rem;
+		  font-weight: 300;
+
+		  li {
+			display: inline-block;
+
+			i {
+			  color: $text;
+			  font-size: 27px;
+			  height: 1.5em;
+			  padding: 0 6px;
+			  @media (max-width: 767px) {
+				padding: 0 10px;
+			  }
+			}
+		  }
+		}
+	  }
+	}
+
+	.footer-navigation-menus {
+	  width: 50%;
+	  display: flex;
+	  padding-right: 30px;
+	  justify-content: space-between;
+	  margin-left: auto;
+
+	  @media (max-width: 767px) {
+		flex-direction: column;
+		width: 100%;
+		padding-right: 0;
+	  }
+
+	  .dropdown {
+		position: relative;
+		display: inline-block;
+	  }
+
+	  .dropdown-content {
+		display: block;
+
+		@media (max-width: 767px) {
+		  display: none;
+		}
+	  }
+
+
+	  .dropdown:hover .dropdown-content {
+		display: block;
+	  }
+
+	  .widget-title {
+		color: $text;
+		font-size: 1.5rem;
+		font-weight: 700;
+		padding-bottom: 4rem;
+
+		@media (max-width: 767px) {
+		  padding: 25px 0 0 0;
+		  border-top: 1px solid $border;
+		}
+
+		&:after {
+		  @media (max-width: 767px) {
+			content: "\f107";
+			float: right;
+			text-align: right;
+		  }
+		}
+	  }
+
+
+	  ul {
+		padding: 0;
+		list-style-type: none;
+		font-size: 1rem;
+		font-weight: 300;
+	  }
+
+	  .menu-item {
+		color: $text;
+		padding: 10px 0;
+		padding-bottom: calc(5px / 2);
+
+		@media (max-width: 767px) {
+		  padding-left: 20px;
+		}
+
+		a {
+		  color: $text;
+		  text-decoration: none;
+
+		  &:hover {
+			color: $primary;
+			text-decoration: underline;
+		  }
+		}
+	  }
+	}
+
+	.footer-additional-text {
+	  color: $text;
+	  text-align: center;
+	  text-decoration: none;
+	  display: flex;
+	  flex-direction: column;
+	  margin-top: 75px;
+	  padding: 30px;
+	  border: 1px solid rgba(208, 211, 213, 0.5);
+
+	  p {
+		font-size: 1rem;
+		font-weight: 300;
+
+		a {
+		  color: $text;
+		  text-decoration: none;
+		}
+	  }
+	}
+
+	.footer-links {
+	  padding-top: 40px;
+	  display: flex;
+	  color: $text;
+	  font-size: 0.75rem;
+	  font-weight: 400;
+	  margin: 0;
+
+	  @media (max-width: 767px) {
+		flex-direction: column;
+		align-items: center;
+	  }
+
+	  .menu-footer-bottom-links-container {
+		margin: auto;
+		padding-right: 200px;
+
+		@media (max-width: 767px) {
+		  padding-right: 0;
+		}
+
+		ul {
+		  display: flex;
+		  justify-content: center;
+		  padding: 0;
+		  list-style-type: none;
+
+		  @media (max-width: 767px) {
+			padding-top: 30px;
+		  }
+
+		  li:after {
+			content: "|";
+			padding: 0 10px;
+			color: $border;
+
+			@media (max-width: 767px) {
+			  padding: 0 5px;
+			  content: "";
+			}
+		  }
+
+		  li:last-child:after {
+			content: "";
+		  }
+
+		  li {
+			display: inline-block;
+
+			a {
+			  color: $text;
+			  font-size: 0.75rem;
+			  font-weight: 400;
+
+			  &:hover {
+				color: $primary;
+				text-decoration: underline;
+			  }
+			}
+		  }
+		}
+	  }
+	}
+  }
+}

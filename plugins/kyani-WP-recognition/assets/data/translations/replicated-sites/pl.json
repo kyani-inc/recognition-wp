@@ -1,0 +1,28 @@
+{
+    "locales": [
+      {
+        "locale": "pl_PL",
+        "translations": {
+          "view_bio": "Wyświetl biografię",
+          "view_profile": "Zobacz pełny profil",
+          "hide_profile": "Ukryj pełny profil",
+          "ibp": "Niezależny partner biznesowy",
+          "join_team": "Dołącz do drużyny",
+          "shop_now": "Kup teraz",
+          "about_me": "O mnie"
+        }
+      },
+      {
+        "locale": "en_PL",
+        "translations": {
+          "view_bio": "View Bio",
+          "view_profile": "View Full Profile",
+          "hide_profile": "Hide Full Profile",
+          "ibp": "Independent Business Partner",
+          "join_team": "Join Team",
+          "shop_now": "Shop Now",
+          "about_me": "About Me"
+        }
+      }
+    ]
+  }

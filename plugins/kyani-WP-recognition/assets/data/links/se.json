@@ -1,0 +1,32 @@
+{
+  "country": "SWEDEN",
+  "default_rep": "151",
+  "triangle_of_health": "327",
+  "fleuresse": "311",
+  "nutritionals": "187",
+  "protein_nutritionals": "253",
+  "charity": "515",
+  "on": "243SVNOOTROPRG",
+  "sunrise": "243SVSR30",
+  "sunset": "243SVSS",
+  "core140": "243SVCORECH",
+  "nitro": "243SVFX56",
+  "nitroxtreme": "243SVXT56",
+  "hl5": "243SVHL5P",
+  "fit20": "243SVFIT20",
+  "nucleus_bar": "243SVBAR",
+  "origin_vanilla": "243SVOPBSV",
+  "restore": "243SVRS",
+  "locales": [
+    {
+      "locale": "sv_SE",
+      "language_code": "119",
+      "join_locale": "sv-se"
+    },
+    {
+      "locale": "en_SE",
+      "language_code": "47",
+      "join_locale": "en-gb"
+    }
+  ]
+}

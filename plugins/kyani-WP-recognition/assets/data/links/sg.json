@@ -1,0 +1,29 @@
+{
+    "country": "SINGAPORE",
+    "default_rep": "161",
+    "triangle_of_health": "337",
+    "fleuresse": "",
+    "nutritionals": "179",
+    "protein_nutritionals": "239",
+    "charity": "",
+    "on": "",
+    "sunrise": "414ENSR30",
+    "sunset": "414ENSS",
+    "core140": "",
+    "nitro": "414ENFX56",
+    "nitroxtreme": "414ENXT56",
+    "hl5": "414ENHL5",
+    "fit20": "414ENFIT20",
+    "locales": [
+      {
+        "locale": "en_SG",
+        "language_code": "131",
+        "join_locale": "en-sg"
+      },
+      {
+        "locale": "zh_SG",
+        "language_code": "30",
+        "join_locale": "zh-sg"
+      }
+    ]
+  }

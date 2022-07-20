@@ -1,0 +1,24 @@
+{
+  "country": "TAIWAN",
+  "default_rep": "160",
+  "triangle_of_health": "889",
+  "fleuresse": "",
+  "nutritionals": "",
+  "protein_nutritionals": "",
+  "charity": "",
+  "on": "",
+  "sunrise": "306ZHSR30",
+  "sunset": "306ZHSS",
+  "core140": "",
+  "nitro": "306ZHFX56",
+  "nitroxtreme": "306ZHXT56",
+  "hl5": "306ZHHL5BL",
+  "fit20": "",
+  "locales": [
+    {
+      "locale": "zh_TW",
+      "language_code": "31",
+      "join_locale": "zh-tw"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "country": "ITALY",
+  "default_rep": "151",
+  "triangle_of_health": "344",
+  "fleuresse": "290",
+  "nutritionals": "200",
+  "protein_nutritionals": "229",
+  "charity": "496",
+  "on": "200ENNOOTROPRG",
+  "sunrise": "200ENSR30",
+  "sunset": "200ENSS",
+  "core140": "200ENCORECH",
+  "nitro": "200ENFX56",
+  "nitroxtreme": "200ENXT56",
+  "hl5": "200ENHL5P",
+  "fit20": "200ENFIT20",
+  "nucleus_bar": "200ITBAR",
+  "origin_vanilla": "200ITOPBSV",
+  "restore": "200ITRS",
+  "locales": [
+    {
+      "locale": "it_IT",
+      "language_code": "70",
+      "join_locale": "it-it"
+    },
+    {
+      "locale": "en_IT",
+      "language_code": "47",
+      "join_locale": "en-gb"
+    }
+  ]
+}

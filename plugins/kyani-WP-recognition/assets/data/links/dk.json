@@ -1,0 +1,32 @@
+{
+  "country": "DENMARK",
+  "default_rep": "151",
+  "triangle_of_health": "345",
+  "fleuresse": "280",
+  "nutritionals": "212",
+  "protein_nutritionals": "221",
+  "charity": "536",
+  "on": "213DANOOTROPRG",
+  "sunrise": "213DASR30",
+  "sunset": "213DASS",
+  "core140": "213DACORECH",
+  "nitro": "213DAFX56",
+  "nitroxtreme": "213DAXT56",
+  "hl5": "213DAHL5P",
+  "fit20": "213DAFIT20",
+  "nucleus_bar": "213DABAR",
+  "origin_vanilla": "213DAOPBSV",
+  "restore": "213DARS",
+  "locales": [
+    {
+      "locale": "da_DK",
+      "language_code": "34",
+      "join_locale": "da-dk"
+    },
+    {
+      "locale": "en_DK",
+      "language_code": "47",
+      "join_locale": "en-gb"
+    }
+  ]
+}

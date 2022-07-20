@@ -1,0 +1,24 @@
+{
+  "country": "DOMINICAN REPUBLIC",
+  "default_rep": "155",
+  "triangle_of_health": "353",
+  "fleuresse": "",
+  "nutritionals": "217",
+  "protein_nutritionals": "",
+  "charity": "509",
+  "on": "",
+  "sunrise": "116ESSR30",
+  "sunset": "116ESSS",
+  "core140": "",
+  "nitro": "116ESFX56",
+  "nitroxtreme": "116ESXT56",
+  "hl5": "",
+  "fit20": "",
+  "locales": [
+    {
+      "locale": "es_DO",
+      "language_code": "104",
+      "join_locale": "es-do"
+    }
+  ]
+}

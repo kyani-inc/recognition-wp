@@ -1,0 +1,32 @@
+{
+  "country": "NORWAY",
+  "default_rep": "151",
+  "triangle_of_health": "342",
+  "fleuresse": "289",
+  "nutritionals": "202",
+  "protein_nutritionals": "232",
+  "charity": "535",
+  "on": "234NONOOTROPRG",
+  "sunrise": "234NOSR30",
+  "sunset": "234NOSS",
+  "core140": "234NOCORECH",
+  "nitro": "234NOFX56",
+  "nitroxtreme": "234NOXT56",
+  "hl5": "234NOHL5P",
+  "fit20": "234NOFIT20",
+  "nucleus_bar": "234NOBAR",
+  "origin_vanilla": "234NOOPBSV",
+  "restore": "234NORS",
+  "locales": [
+    {
+      "locale": "nb_NO",
+      "language_code": "81",
+      "join_locale": "nb-no"
+    },
+    {
+      "locale": "en_NO",
+      "language_code": "47",
+      "join_locale": "en-gb"
+    }
+  ]
+}

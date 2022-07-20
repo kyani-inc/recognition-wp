@@ -1,0 +1,26 @@
+{
+    "country": "KOREA",
+    "default_rep": "",
+    "triangle_of_health": "304KO",
+    "puredawoom": "798",
+    "probiotics": "304KOPROBIO",
+    "fleuresse": "",
+    "nutritionals": "204",
+    "protein_nutritionals": "247",
+    "charity": "",
+    "on": "",
+    "sunrise": "304KOSR30",
+    "sunset": "304KOSS",
+    "core140": "",
+    "nitro": "",
+    "nitroxtreme": "304KOXTP56",
+    "hl5": "304KOHL5",
+    "fit20": "304KOFIT20",
+    "locales": [
+      {
+        "locale": "ko_KR",
+        "language_code": "73",
+        "join_locale": "ko-kr"
+      }
+    ]
+  }

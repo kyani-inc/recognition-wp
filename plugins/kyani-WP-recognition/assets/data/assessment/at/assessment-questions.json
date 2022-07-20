@@ -1,0 +1,460 @@
+{
+  "questions": [
+    {
+      "question": "Welche sind deine größten gesundheitlichen Bedenken?",
+      "type": "custom-button",
+      "name": "healthConcerns[]",
+      "error": "Bitte wählen Sie gesundheitliche Bedenken aus.",
+      "label": "Wähle bitte die drei wichtigsten gesundheitlichen Bedenken aus, die du derzeit hast.",
+      "questionID": 1,
+      "answers": [
+        {
+          "answer": "Stress/Angst",
+          "recommendedProducts": [
+            "Sunrise",
+            "Sunset",
+            "Nitro"
+          ]
+        },
+        {
+          "answer": "Energie",
+          "recommendedProducts": [
+            "Sunrise",
+            "Sunset",
+            "Nitro"
+          ]
+        },
+        {
+          "answer": "Verdauung",
+          "recommendedProducts": [
+            "HL5",
+            "Sunrise",
+            "Sunset"
+          ]
+        },
+        {
+          "answer": "Konzentrationsfähigkeit",
+          "recommendedProducts": [
+            "ON",
+            "Sunrise",
+            "Nitro"
+          ]
+        },
+        {
+          "answer": "Immunsystem",
+          "recommendedProducts": [
+            "Sunrise",
+            "Sunset",
+            "Nitro"
+          ]
+        },
+        {
+          "answer": "Haut/Haare",
+          "recommendedProducts": [
+            "HL5",
+            "Fit20",
+            "Sunrise"
+          ]
+        },
+        {
+          "answer": "Knochen/Gelenke",
+          "recommendedProducts": [
+            "HL5",
+            "Fit20",
+            "Sunset"
+          ]
+        },
+        {
+          "answer": "Herz/Kreislauf",
+          "recommendedProducts": [
+            "Nitro",
+            "Sunrise",
+            "Sunset"
+          ]
+        },
+        {
+          "answer": "Muskelschwund",
+          "recommendedProducts": [
+            "Fit20",
+            "CORE140",
+            "Sunset"
+          ]
+        },
+        {
+          "answer": "Gewichtsverlust",
+          "recommendedProducts": [
+            "CORE140",
+            "Fit20",
+            "Sunset"
+          ]
+        },
+        {
+          "answer": "Schlaf",
+          "recommendedProducts": [
+            "Sunset",
+            "HL5",
+            "CORE140"
+          ]
+        },
+        {
+          "answer": "Muskeln/Kraft",
+          "recommendedProducts": [
+            "Fit20",
+            "CORE140",
+            "Sunset"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Isst du mehr als 5 Portionen Obst und Gemüse pro Tag?",
+      "questionID": 2,
+      "name": "servingsRadioOptions",
+      "type" : "radio",
+      "error": "Bitte Betrag auswählen.",
+      "answers": [
+        {
+          "answer": "Ja",
+          "id": "servingsYesRadio",
+          "recommendedProducts": [
+            "Sunrise",
+            "Sunset",
+            "Nitro"
+          ]
+        },
+        {
+          "answer": "Nein",
+          "id": "servingsNoRadio",
+          "recommendedProducts": [
+            "Sunrise",
+            "CORE140",
+            "Sunset"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Wie viele Gramm Kollagen nimmst du pro Tag zu dir?",
+      "questionID": 3,
+      "type": "select",
+      "name": "collagenAmount",
+      "error": "Bitte wählen Sie die Anzahl der Gramm.",
+      "answers": [
+        {
+          "answer": "Wählen Sie Gramm Kollagen",
+          "value": "",
+          "recommendedProducts": []
+        },
+        {
+          "answer": "20-30g",
+          "value":  "20-30g",
+          "recommendedProducts": [
+            "Sunrise",
+            "Sunset",
+            "Nitro"
+          ]
+        },
+        {
+          "answer": "10-20g",
+          "value":  "10-20g",
+          "recommendedProducts": [
+            "HL5",
+            "Sunrise",
+            "Sunset"
+          ]
+        },
+        {
+          "answer": "5-10g",
+          "value":  "5-10g",
+          "recommendedProducts": [
+            "Fit20",
+            "HL5",
+            "Sunrise"
+          ]
+        },
+        {
+          "answer": "0-5g",
+          "value":  "0-5g",
+          "recommendedProducts": [
+            "Fit20",
+            "HL5",
+            "Sunrise"
+          ]
+        }
+
+      ]
+    },
+    {
+      "question": "Wie viele Portionen Protein nimmst du pro Tag zu dir?",
+      "questionID": 4,
+      "type": "select",
+      "name": "proteinAmount",
+      "error": "Bitte wählen Sie Ihre Proteinportionen.",
+      "answers": [
+        {
+          "answer": "Wählen Sie Proteinportionen",
+          "value": "",
+          "recommendedProducts": []
+        },
+        {
+          "answer": "5 oder mehr",
+          "value": "5 or more",
+          "recommendedProducts": [
+            "Sunrise",
+            "Sunset",
+            "Nitro"
+          ]
+        },
+        {
+          "answer": "3-5 Portionen",
+          "value": "3-5 Servings",
+          "recommendedProducts": [
+            "Sunrise",
+            "Sunset",
+            "Nitro"
+          ]
+        },
+        {
+          "answer": "1-2 Portionen",
+          "value": "1-2 Servings",
+          "recommendedProducts": [
+            "Fit20",
+            "CORE140",
+            "HL5"
+          ]
+        },
+        {
+          "answer": "1 Portion",
+          "value": "1 Serving",
+          "recommendedProducts": [
+            "Fit20",
+            "CORE140",
+            "HL5"
+          ]
+        }
+      ,
+        {
+          "answer": "Nichts",
+          "value": "None",
+          "recommendedProducts": [
+            "Fit20",
+            "CORE140",
+            "HL5"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Zu welcher Tageszeit wünschst du dir mehr Energie?",
+      "questionID": 5,
+      "type": "select",
+      "name": "energystruggle",
+      "error": "Bitte wählen Sie die Tageszeit.",
+      "answers": [
+        {
+          "answer": "Tageszeit auswählen",
+          "value": "",
+          "recommendedProducts": []
+        },
+        {
+          "answer": "Morgens",
+          "value": "Morning",
+          "recommendedProducts": [
+            "ON",
+            "Nitro",
+            "Sunrise"
+          ]
+        },
+        {
+          "answer": "Nachmittags",
+          "value": "Afternoon",
+          "recommendedProducts": [
+            "ON",
+            "Nitro",
+            "HL5"
+          ]
+        },
+        {
+          "answer": "Abends",
+          "value": "Evening",
+          "recommendedProducts": [
+            "Sunset",
+            "Nitro",
+            "HL5"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Wenn es um Leistung geht, kämpfst du mit:",
+      "questionID": 6,
+      "type": "select",
+      "name": "performanceStruggle",
+      "error": "Wähle deinen größten Konflikt",
+      "answers": [
+        {
+          "answer": "Wähle deinen größten Konflikt",
+          "value": "",
+          "recommendedProducts": []
+        },
+        {
+          "answer": "Konzentration",
+          "value": "Concentration",
+          "recommendedProducts": [
+            "ON",
+            "Nitro",
+            "Hl5"
+          ]
+        },
+        {
+          "answer": "Fokus",
+          "value": "Focus",
+          "recommendedProducts": [
+            "ON",
+            "Nitro",
+            "Hl5"
+          ]
+        },
+        {
+          "answer": "Gedächtnis",
+          "value": "Memory",
+          "recommendedProducts": [
+            "ON",
+            "Nitro",
+            "Hl5"
+          ]
+        },
+        {
+          "answer": "Kreativität",
+          "value": "Creativity",
+          "recommendedProducts": [
+            "ON",
+            "Nitro",
+            "Hl5"
+          ]
+        },
+        {
+          "answer": "Aufmerksamkeit",
+          "value": "Attention",
+          "recommendedProducts": [
+            "ON",
+            "Nitro",
+            "Hl5"
+          ]
+        },
+        {
+          "answer": "Produktivität",
+          "value": "Productivity",
+          "recommendedProducts": [
+            "ON",
+            "Nitro",
+            "Hl5"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Wie viele gesunde Mahlzeiten nimmst du während der Arbeitswoche zu dir?",
+      "questionID": 7,
+      "type": "select",
+      "name": "healthyMeals",
+      "error": "Bitte Betrag auswählen",
+      "answers": [
+        {
+          "answer": "Menge wählen",
+          "value": "",
+          "recommendedProducts": []
+        },
+        {
+          "answer": "6-7 pro Woche",
+          "value": "5-7 a week",
+          "recommendedProducts": [
+            "CORE140",
+            "HL5",
+            "Sunrise"
+          ]
+        },
+        {
+          "answer": "3-5 pro Woche",
+          "value": "3-5 a week",
+          "recommendedProducts": [
+            "CORE140",
+            "HL5",
+            "Sunrise"
+          ]
+        },
+        {
+          "answer": "1-2 pro Woche",
+          "value": "1-2 a week",
+          "recommendedProducts": [
+            "CORE140",
+            "HL5",
+            "Sunrise"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Welche Sportart machst du hauptsächlich?",
+      "questionID": 8,
+      "type": "select",
+      "name": "exerciseType",
+      "error": "Bitte wähle deine Trainingsart aus",
+      "answers": [
+        {
+          "answer": "Art des Sports wählen",
+          "value": "",
+          "recommendedProducts": []
+        },
+        {
+          "answer": "Krafttraining",
+          "value": "Weight Training",
+          "recommendedProducts": [
+            "Fit20",
+            "CORE140",
+            "Nitro"
+          ]
+        },
+        {
+          "answer": "Yoga",
+          "value": "Yoga",
+          "recommendedProducts": [
+            "HL5",
+            "CORE140",
+            "Sunrise"
+          ]
+        },
+        {
+          "answer": "Crossfit",
+          "value": "Crossfit",
+          "recommendedProducts": [
+            "CORE140",
+            "Fit20",
+            "Nitro"
+          ]
+        },
+        {
+          "answer": "Ausdauersport",
+          "value": "Endurance Sports",
+          "recommendedProducts": [
+            "Nitro",
+            "Fit20",
+            "Sunrise"
+          ]
+        },
+        {
+          "answer": "Nichts",
+          "value": "None",
+          "recommendedProducts": [
+            "Sunrise",
+            "Sunset",
+            "Nitro"
+          ]
+        }
+      ]
+    }
+  ],
+  "submitText": "Senden",
+  "optionalText": "Optionale Fragen",
+  "skipText": "Überspringen und einkaufen"
+}

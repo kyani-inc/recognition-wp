@@ -1,0 +1,10 @@
+#countries {
+  width: 70vw;
+  left: -55vw;
+  margin-top: 40px;
+=
+}
+
+.country-dropdown-item img {
+  margin-right: 10px;
+}

@@ -1,0 +1,25 @@
+{
+  "country": "PHILIPPINES",
+  "default_rep": "159",
+  "nitro_nutrition": "979",
+  "triangle_of_health": "",
+  "fleuresse": "283",
+  "nutritionals": "178",
+  "protein_nutritionals": "251",
+  "charity": "511",
+  "on": "",
+  "sunrise": "536ENSR30",
+  "sunset": "536ENSS",
+  "core140": "",
+  "nitro": "536ENFX56",
+  "nitroxtreme": "536ENXT56",
+  "hl5": "536ENHL5",
+  "fit20": "536ENFIT20",
+  "locales": [
+    {
+      "locale": "en_PH",
+      "language_code": "44",
+      "join_locale": "en-ph"
+    }
+  ]
+}
