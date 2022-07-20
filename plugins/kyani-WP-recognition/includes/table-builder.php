@@ -36,7 +36,7 @@ function tableBuilderShortcode($atts, $content = null) {
 	foreach($data as $val ) {
 		$jsonTable .= '<tr>';
 		if ($args['country'] == 'yes' || $args['country'] == 'Yes') {
-			$jsonTable .= '<td class="Data"><img src="https://office.kyani.net/assets/images/flags/' . $val->Country . '.png" alt="' . $val->CountryFull . '">' . $val->CountryFull . '</td>';
+			$jsonTable .= '<td class="Data"><img src="https://assets.kyani.net/flags/' . $val->Country . '.png" alt="' . $val->CountryFull . '">' . $val->CountryFull . '</td>';
 		}
 		if ($args['name'] == 'yes' || $args['name'] == 'Yes') {
 			$jsonTable .= '<td class="Data">' . $val->Name . '</td>';

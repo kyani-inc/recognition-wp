@@ -7,13 +7,8 @@
 @import "kyani-bp-finder/bp-finder";
 @import "kyani-sponsor-entry/sponsor-entry";
 
-@font-face {
-  font-family: Avenir;
-  src: ("http://kyani.test/wp-content/themes/understrap/fonts/AvenirLTStd-Medium.otf")
-}
-
 html body {
-  font-family: Avenir, sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #main {
