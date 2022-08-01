@@ -20,17 +20,17 @@ function tableBuilderShortcode($atts, $content = null) {
 	//Table Heading
 	$jsonTable .= '<tr>';
 	if ($args['country'] == 'yes' || $args['country'] == 'Yes') {
-	$jsonTable .= '<th class="Header" scope="col">Country</th>';
+	$jsonTable .= '<th class="Header" style="width: 40%" scope="col">Country</th>';
 	}
 	if ($args['name'] == 'yes' || $args['name'] == 'Yes') {
-		$jsonTable .= '<th class="Header" scope="col">Name</th>';
+		$jsonTable .= '<th class="Header" style="width: 40%" scope="col">Name</th>';
 	}
 	if ($args['type'] == 'enrollments' || $args['type'] == 'Enrollments') {
-		$jsonTable .= '<th class="Header" scope="col">Enrollments</th>';
+		$jsonTable .= '<th class="Header" style="width: 20%" scope="col">Enrollments</th>';
 	} else if ($args['type'] == 'tickets' || $args['type'] == 'Tickets') {
-		$jsonTable .= '<th class="Header" scope="col">Tickets</th>';
+		$jsonTable .= '<th class="Header" style="width: 20%" scope="col">Tickets</th>';
 	} else if ($args['type'] == 'points' || $args['type'] == 'Points') {
-		$jsonTable .= '<th class="Header" scope="col">Points</th>';
+		$jsonTable .= '<th class="Header" style="width: 20%" scope="col">Points</th>';
 	}
 	$jsonTable .= '</tr>';
 	foreach($data as $val ) {
