@@ -11,9 +11,14 @@ function tableBuilderShortcode($atts, $content = null) {
 	if (!$args['url']) {
 	return 'Please Enter a URL Parameter';
 	}
+
 	$url = $args['url'];
 	$json_data = json_decode(file_get_contents($url));
 	$data = $json_data->data;
+
+	if (!$data) {
+		return '';
+	}
 
 	$jsonTable = '<h3 class="tableHeader" style="padding-top: 30px; text-align: center; color: #002855; font-size: 40px; font-weight: bold;">' . $content . '</h3>';
 	$jsonTable .= '<table class=table-striped table-condensed" width=100%>';
