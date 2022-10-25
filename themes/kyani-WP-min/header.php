@@ -49,7 +49,7 @@ $container = get_theme_mod('understrap_container_type');
 			<?php if ((is_page() || is_singular())) : ?>
 				<?php endif; ?>
 				<a href="<?php echo(get_home_url()) ?>" class="navbar-brand">
-					<img src="<?php echo esc_url(bloginfo('template_directory') . "/images/logo-header.svg") ?>" alt="Kyani Logo" width="80px">
+					<img src="<?php echo esc_url(bloginfo('template_directory') . "/images/amare-kyani-header.png") ?>" alt="Kyani Logo" width="80px">
 				</a>
 
 				<?php wp_nav_menu(
